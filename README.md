@@ -6,6 +6,8 @@ Projeto de portfólio de análise de dados em Power BI, com uma empresa SaaS fic
 
 [![Dashboard SaaS: receita e retenção](assets/dashboard-saas.png)](https://app.powerbi.com/view?r=eyJrIjoiZTZjYmY1NWQtNzVlNi00NmVmLWI3ZTUtN2Y2OGY5MTc3OGVmIiwidCI6IjdiNzZjYWM5LTBkYTQtNGNmZC1hZWY1LWEyNDgyNDI5NmYyMiJ9)
 
+### [↗ Abrir o portfólio com dashboard incorporado](https://gu1lho.github.io/dashboard-saas/)
+
 ### [↗ Explorar o dashboard interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTZjYmY1NWQtNzVlNi00NmVmLWI3ZTUtN2Y2OGY5MTc3OGVmIiwidCI6IjdiNzZjYWM5LTBkYTQtNGNmZC1hZWY1LWEyNDgyNDI5NmYyMiJ9)
 
 Use os filtros de período e segmento para explorar a carteira. A imagem acima é uma captura estática fornecida para o portfólio. O link abre o relatório interativo publicado pelo autor.
@@ -132,4 +134,3 @@ Para visualizar a página, abra `index.html` em um navegador com acesso à inter
 Definição de KPIs SaaS, análise temporal, leitura de churn, análise de mix de receita, validação de dados, comunicação de resultados e apresentação de dashboards em Power BI.
 
 **Autor:** [Guilherme F. Santos · GU1LHO](https://github.com/GU1LHO)
-
